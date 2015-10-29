@@ -43,4 +43,4 @@ app.config(function ($routeProvider) {
         redirectTo: '/'
       });
   })
-.constant('FIREBASE_URL', 'https://bang-news.firebaseio.com/');
+.constant('FIREBASE_URL', 'https://resplendent-fire-7520.firebaseio.com/');
